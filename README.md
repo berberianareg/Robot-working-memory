@@ -4,7 +4,8 @@
 * Python programming language
 
 ## Keywords
-* Spiking model
+* Neurorobotics
+* Spiking neuronal network
 * Working memory
 * Online learning
 * Synaptic plasticity
