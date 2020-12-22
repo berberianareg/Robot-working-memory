@@ -5,7 +5,7 @@
 
 ## Keywords
 * Neurorobotics
-* Spiking neuronal network
+* Spiking neural network
 * Working memory
 * Online learning
 * Synaptic plasticity
