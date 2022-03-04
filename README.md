@@ -1,4 +1,4 @@
-# Robot_working_memory
+# Robot-working-memory
 
 ## Overview
 Introducing a network of spiking neurons with adaptive-exponential integrate-and-fire units. 
